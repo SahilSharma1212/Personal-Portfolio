@@ -5,3 +5,9 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+
+module.exports = {
+  images: {
+    domains: ['assets.aceternity.com'], // Add your external hostname here
+  },
+}
