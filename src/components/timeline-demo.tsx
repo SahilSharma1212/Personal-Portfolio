@@ -58,7 +58,7 @@ export function TimelineDemo() {
       content: (
         <div>
           <p className="text-neutral-800 dark:text-neutral-200 text-xl max-md:text-sm font-normal mb-4">
-            Here are some cool projects I've worked on:
+            Here are some cool projects I&apos;ve worked on:
           </p>
 
           <div className="flex flex-wrap items-start text-white text-xl justify-start flex-col mt-12 gap-12">
