@@ -75,6 +75,22 @@ export function TimelineDemo() {
             </div>
             <div className="flex flex-col gap-4">
               <p className="font-mono font-semibold">
+                Social Media Time Capsule Platform ( Currently Working )
+              </p>
+              <p>
+              Your time capsule app allows users to create digital capsules by entering a name, description, content, and an opening date. Users can keep the capsules private or public, attach media, and schedule them to &quot;open&quot; in the future—revealing the contents on the specified date. It&apos;s designed to preserve memories, thoughts, or messages for future reflection or sharing.
+              </p>
+            </div>
+            <div className="flex flex-col gap-4">
+              <p className="font-mono font-semibold">
+                Personal Finance Tracker
+              </p>
+              <p>
+              This is a budget tracking and comparison app that lets users select a saved budget (weekly or monthly), automatically fetches related expenses, and displays a detailed comparison between the allocated and spent amounts for each category—helping users understand their spending habits and manage finances more effectively.
+              </p>
+            </div>
+            <div className="flex flex-col gap-4">
+              <p className="font-mono font-semibold">
                 Personal Portfolio Website
               </p>
               <p>
